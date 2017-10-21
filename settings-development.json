@@ -9,8 +9,9 @@
         "loginStyle": "popup"
       },
       "google": {
-        "clientId": "",
-        "secret": "",
+        "clientId":
+          "181078857510-6545pkhi8p7tbq33tnf76vissfo4h67r.apps.googleusercontent.com",
+        "secret": "E4YkGMKdK1dVNVVmfmhQr3YX",
         "loginStyle": "popup"
       },
       "github": {
